@@ -19,7 +19,7 @@ Build a machine learning model using historical transaction data to detect fraud
 The primary objective of this project is to develop an automated, real-time fraud detection system using machine learning models to minimize fraudulent transactions. The system will be trained on a comprehensive dataset of credit card transactions, utilizing both supervised learning algorithms (e.g., logistic regression and decision trees) and anomaly detection techniques (e.g., isolation forests and one-class SVM). The model will be optimized for accuracy and efficiency through preprocessing techniques, including data normalization, handling class imbalances, and feature engineering. The project will also implement a real-time processing pipeline using Spark to evaluate transactions instantly and flag suspicious activities. This initiative will reduce financial losses, enhance customer confidence, and support the bank’s security operations.
 
 ### 2.1 Work Breakdown Structure
-WORK BREAKDOWN STRUCTURE IMAGE TO BE ADDED HERE
+![Work Breakdown Structure](files/WBS_Credit.png)
 
 ### 2.2 Gantt Chart
 GANTT CHART IMAGE TO BE ADDED HERE
