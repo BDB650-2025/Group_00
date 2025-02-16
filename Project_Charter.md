@@ -22,7 +22,7 @@ The primary objective of this project is to develop an automated, real-time frau
 ![Work Breakdown Structure](files/WBS_Credit.png)
 
 ### 2.2 Gantt Chart
-GANTT CHART IMAGE TO BE ADDED HERE
+![Gantt Chart](<files/Credit Fraud Detection.png>)
 
 ## 3. Milestones
 
