@@ -97,4 +97,18 @@ The primary objective of this project is to develop an automated, real-time frau
 
 ## 6. Organization and Stakeholders
 
+### 6.1 Stakeholders Analysis Matrix
+![Stakeholder Analysis Matrix](files/Stakeholder_Matrix.png)
+
+### 6.2 Communications Plan
+
+| Information| Owner| Audience| Schedule | Channel |
+|----------|:-------------|:------| :-------| :-------|
+| Project Status | Project Manager | Bank Executives, Data Scientists | Biweekly | In Person |
+| Sprint Review | Data Scientists | Project Manager, Project Sponsor  | Biweekly | In Person |
+| Modelling Results | Data Scientists | Fraud Detection, IT and Security Teams  | Monthly | MS Teams |
+| Financial Report | Project Sponsor | Project Manager, Bank Executives | Monthly | Phone |
+| Compliance Reports | Project Manager| Regulatory  Bodies | Quarterly | Email |
+| Advertisement | Project Sponsor| Customers | End of Project | Email |
+
 ## 7. Risks Assumptions and Constratins
