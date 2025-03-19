@@ -116,8 +116,8 @@ The primary objective of this project is to develop an automated, real-time frau
 | **ID**   | **Description** | **Likelihood** | **Impact** | **Owner** |
 |----------|----------------|---------------------|---------------| ------|
 | 01 | Data quality issues (incomplete, inaccurate, inconsistent data) | High | Medium | Data Scientists |
-| 02 | Non-compliance with data privacy regulations    | Medium | High | Regulatory Bodies |
+| 02 | Non-compliance with data privacy regulations    | Medium | Small | Regulatory Bodies |
 | 03 | Model bias leading to incorrect insights and business decisions	| Medium | High  | Data Scientists|
-| 04 | Security vulnerabilities leading to data breaches | High | High | IT and Security Teams |
+| 04 | Security vulnerabilities leading to data breaches | Small | High | IT and Security Teams |
 | 05 | Unclear business requirements causing scope creep | Medium | Medium | Project Manager |
-| 05 | Issues leading to customers switching banks | Medium | High | Project Sponsor |
+| 06 | Issues leading to customers switching banks | Small | High | Project Sponsor |
