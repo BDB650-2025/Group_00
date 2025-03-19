@@ -113,6 +113,8 @@ The primary objective of this project is to develop an automated, real-time frau
 
 ## 7. Risks Analysis
 
+### 7.1 Risk Register
+
 | **ID**   | **Description** | **Likelihood** | **Impact** | **Owner** |
 |----------|----------------|---------------------|---------------| ------|
 | 01 | Data quality issues (incomplete, inaccurate, inconsistent data) | High | Medium | Data Scientists |
@@ -121,3 +123,7 @@ The primary objective of this project is to develop an automated, real-time frau
 | 04 | Security vulnerabilities leading to data breaches | Small | High | IT and Security Teams |
 | 05 | Unclear business requirements causing scope creep | Medium | Medium | Project Manager |
 | 06 | Issues leading to customers switching banks | Small | High | Project Sponsor |
+
+### 7.2 Risk Qualitative Analysis
+
+![Risk Qualitative Analysis](files/riskqualitative.png)
